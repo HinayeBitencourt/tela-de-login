@@ -12,7 +12,6 @@ Projeto de uma **tela de login responsiva**, desenvolvida utilizando **HTML**, *
 ## 🛠️ Tecnologias utilizadas  
 - HTML  
 - CSS  
-- JavaScript  
 
 ## 📄 Status do Projeto  
 ✔️ Projeto finalizado, porém aberto para futuras melhorias conforme avanço nos estudos.  
