@@ -16,7 +16,7 @@ Projeto de uma **tela de login responsiva**, desenvolvida utilizando **HTML**e *
 ✔️ Projeto finalizado, porém aberto para futuras melhorias conforme avanço nos estudos.  
 
 ## 🔗 Acesse o projeto online  
-    [![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github&logoColor=white)](https://hinayebitencourt.github.io/tela-de-login/)  
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=github&logoColor=white)](https://hinayebitencourt.github.io/tela-de-login/)  
 
 ## 💡 Aprendizados  
 - Estruturação de uma página web com HTML  
